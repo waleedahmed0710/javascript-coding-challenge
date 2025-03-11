@@ -1,7 +1,5 @@
 # javascript-coding-challenge
 
-Below is a sample **README.md** that you can include in your repository to explain the challenge requirements and submission process clearly. Feel free to adjust any details to match your team’s preferences or the specifics of your repo setup.
-
 ---
 
 # Full-Stack Junior Developer Challenge
